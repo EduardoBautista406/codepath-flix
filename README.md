@@ -9,7 +9,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -18,13 +17,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
 
 
-![](https://i.imgur.com/D3pTQQ0.gif)
+![](https://i.imgur.com/d0mUJui.gif)
 
 
 
@@ -32,4 +31,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 I had some challenges adding the packages to Xcode. It turns out there was a bug in Xcode so I had to update it. I alsohad troubles downloading brew. Other than that, I enjoyed following along the tutorials.
+
 
